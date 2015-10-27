@@ -1,4 +1,0 @@
-// Messages from compiling sunflower.html
-info: line 29, column 37 of test/codegen/sunflower/sunflower.dart: [InferredTypeClosure] (e) => draw() has inferred type (Event) → void
-  slider.addEventListener('change', (e) => draw());
-                                    ^^^^^^^^^^^^^

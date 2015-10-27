@@ -1,4 +1,0 @@
-// Messages from compiling BenchmarkBase.dart
-info: line 63, column 7 of test/codegen/BenchmarkBase.dart: [DynamicInvoke] f() requires dynamic invoke
-      f();
-      ^^^
